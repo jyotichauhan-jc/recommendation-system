@@ -12,6 +12,4 @@ implicit
 Model Used -
 Basic model - Bayesian personalisedranking method
 
-Weighted ensemble of basic model with various parameters.
-
 Leaderboard Rank - 58/3500 registered participants
